@@ -1,2 +1,3 @@
 # TestGithub2
-TestGithub
+==============
+TestGithub is a repository to test setup git on my windows computer.
